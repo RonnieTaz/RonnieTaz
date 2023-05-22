@@ -2,7 +2,7 @@
 <h3 align="center">A full stack Developer from Tanzania</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [OSMMAS](http://osmmas-dev.herokuapp.com/)<br>🌱 I’m currently learning **Flutter**<br>💬 Ask me about **React, Laravel, PHP, JS, NodeJS**<br>📫 How to reach me **vicsimon.vs4@gmail.com**
+🔭 I’m currently working on [Nyamnyam E-Commerce Store](https://www.nyamnyam.co.tz/)<br>🌱 I’m currently learning **Flutter**<br>💬 Ask me about **React, Laravel, PHP, JS, NodeJS**<br>📫 How to reach me **vicsimon.vs4@gmail.com**
 
 
 ## 🌐 Socials:
